@@ -1,5 +1,5 @@
 EUCLEG project - R
-==================
+=======
 
 Source code for statistical analysis of EUCLEG project data.
 
