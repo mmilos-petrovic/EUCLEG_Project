@@ -1,7 +1,7 @@
-Manim Videos
-=======
+EUCLEG PROJECT - R
+==================
 
-Source code for statistical analysis of EUCLEG project data.
+Source code for statistical analysis of the data set collected during the EUCLEG project.
 
 The experiment is based on an augmented design, with nine environments in four countries and 400 faba bean genotypes.
 
@@ -12,4 +12,5 @@ The following statistical analyses were performed:
   5. Mixed-model analysis.
   6. Principal Component Analysis
 
-The scientific article can be downloaded at https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1480110/full.
+The scientific article can be downloaded from 
+https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1480110/full.
