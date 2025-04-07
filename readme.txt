@@ -1,4 +1,4 @@
-EUCLEG project - R
+Manim Videos
 =======
 
 Source code for statistical analysis of EUCLEG project data.
