@@ -1,3 +1,6 @@
+EUCLEG project - R
+==================
+
 Source code for statistical analysis of EUCLEG project data.
 
 The experiment is based on an augmented design, with nine environments in four countries and 400 faba bean genotypes.
